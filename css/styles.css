@@ -109,8 +109,6 @@ ol > li:nth-child(2) > div {
 
 .submit-button {
   cursor: pointer;
-  background-color: rgba(32, 252, 143, 0.1);
-  background-image: url("../img/glitter.gif");
   background-position: center;
 }
 
